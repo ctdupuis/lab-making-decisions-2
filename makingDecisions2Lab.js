@@ -1,3 +1,5 @@
+// Paired with Adam Ray and Michael Fender
+
 // For problems 1-2 use the following lines of code:
 var arr = [10,20,30,40,50,60]
 
